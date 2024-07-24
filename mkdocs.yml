@@ -3,7 +3,7 @@ theme:
   name: material
   # favicon: img/favicon.ico
 nav:
- - Home: README.md
+ - Home: 'README.md'
  - About: 'about.md'
  - What is DHRIFT?: 'whatis.md'
  - How does DHRIFT work?: 'howdhrift.md'
