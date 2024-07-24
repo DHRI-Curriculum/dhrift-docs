@@ -10,6 +10,7 @@ nav:
    - 'Features': 'features.md'
  - 'Learning with DHRIFT': 'learn.md'
  - 'Teaching Tips': 'teaching.md'
+ - 'Anatomy of a Workshop': 'workshopanatomy.md'
  - 'Customizing a DHRIFT Institute': 'customize.md'
  - 'Modifying a DHRIFT workshop': 'modifyworkshop.md'
  - 'Creating a DHRIFT workshop': 'createworkshop.md'
