@@ -4,17 +4,17 @@ theme:
   # favicon: img/favicon.ico
 nav:
  - Home: README.md
- - 'About': 'about.md'
- - 'What is DHRIFT?': 'whatis.md'
- - 'How does DHRIFT work?': 'howdhrift.md'
- - 'Features': 'features.md'
- - 'Learning with DHRIFT': 'learn.md'
- - 'Teaching Tips': 'teaching.md'
- - 'Anatomy of a Workshop': 'workshopanatomy.md'
- - 'Customizing a DHRIFT Institute': 'customize.md'
- - 'Modifying a DHRIFT workshop': 'modifyworkshop.md'
- - 'Creating a DHRIFT workshop': 'createworkshop.md'
- - 'Working with the Glossary': 'glossary.md'
+ - About: 'about.md'
+ - What is DHRIFT?: 'whatis.md'
+ - How does DHRIFT work?: 'howdhrift.md'
+ - Features: 'features.md'
+ - Learning with DHRIFT: 'learn.md'
+ - Teaching Tips: 'teaching.md'
+ - Anatomy of a Workshop: 'workshopanatomy.md'
+ - Customizing a DHRIFT Institute: 'customize.md'
+ - Modifying a DHRIFT workshop: 'modifyworkshop.md'
+ - Creating a DHRIFT workshop: 'createworkshop.md'
+ - Working with the Glossary: 'glossary.md'
  
 markdown_extensions:
   - toc:
