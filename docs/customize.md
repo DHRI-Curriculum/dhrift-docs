@@ -50,7 +50,31 @@ The title in the General Information section of the DHRIFT Wizard refers to the 
 
 ** This field is required ** 
 
-### 
+### Institute / Event / Course Dates
+
+** This field is required **
+
+Using the date picker, select the starting date and end date of your event. You do not need to choose times at this point. More specific information about sessions include information for times and dates. This information will display inside the image at the top of the DHRIFT Landing Page. 
+
+### Format
+
+You can include information about what type of learning event this will be. There are three options: Online, In-person, and Hybrid. Select the radio button next to the most appropriate description. This field is optional. 
+
+### Host or Organizer
+
+** This field is required. **
+
+Insert the name of the organization or group hosting the learning event. For example: Our University, Research Office. 
+
+### Tagline
+
+Insert text up to a maximum of 10 words for a tagline. This text will appear in the right hand side of the hero image at the top of the page. This field is optional. If there is no text inside the area will simply not display text. 
+
+### Short Description
+
+Text entered into this field will display on the DHRIFT Institute Landing Page directly below the hero image and above the schedule. Only text up to 150 words will display properly. This field is not required and if it is left blank no text will display on this area of the page. 
+
+
 
 ## Things to consider
 ## Editing your DHRIFT Institute site
