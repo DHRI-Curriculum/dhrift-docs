@@ -15,7 +15,9 @@ nav:
  - Modifying a DHRIFT workshop: 'modifyworkshop.md'
  - Creating a DHRIFT workshop: 'createworkshop.md'
  - Working with the Glossary: 'glossary.md'
- 
+ - Workshop Guidelines: 'workshop-guidelines.md'
+ - Propose and Submit a Workshop: 'propose-submit.md'
+
 markdown_extensions:
   - toc:
       permalink: "#"
