@@ -1,3 +1,9 @@
 # What is DHRIFT? 
 
-This section is about DHRIFT
+DHRIFT (Digital Humanities Resource Infrastructure for Teaching Technology) is an open educational resource (OER) and publication platform for digital humanities (DH) workshops. Designed by humanities scholars for humanities scholars, DHRIFT provides a minimal computing, accessibility-aware, and interactive environment for teaching fundamental DH concepts.
+
+The platform includes a core set of more than 10 reviewed and tested workshops that have been developed and tested during two NEH-funded, week-long institutes, called the Digital Humanities Research Institutes (DHRI). Workshop topics range from learning the basics of Python, JavaScript, and R to conducting research through text analysis, data wrangling, and mapping. You can see the full list of workshops on the workshops page, accessible from the header menu or by clicking here.
+
+DHRIFT’s core workshops are always accessible from and usable on our website; however, its flexible framework also allows users to build their own customized, static DHRIFT sites and tailor them for a variety of situations, such as teaching an undergraduate or graduate class, hosting a week-long skills institute, or organizing a series of professional development workshops. DHRIFT facilitates an instructor or organizations’ ability to reproduce, adapt, and publish DH workshops with interactive, learner-focused features. All workshop content is accessible in the browser, avoiding the need for learners to install software or set up complex computing environments.
+
+While we realize everyone learns differently and no one tool can solve for the wide variety of possible hurdles for teaching and learning digital skills, DHRIFT is designed to be flexible. We have found that it can be useful in remote, in-person, and self-instructional modalities. It is designed to be accessible to learners of all backgrounds and skill levels, from beginners to more advanced users, but our content tends toward beginners. Whether you're new to digital humanities or an experienced practitioner, DHRIFT has something to offer you.
