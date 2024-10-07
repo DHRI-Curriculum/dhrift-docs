@@ -13,7 +13,7 @@ DHRIFT's Institute Landing Page requires that you have a [GitHub](https://github
 ## About the DHRIFT Wizard
 
 ### Overview
-To make the site creation process easeier, the DHRIFT Wizard will walk users through the step-by-step process of creating a new DHRIFT Institute Landing Page. The wizard will ask for core information about your institute. Then you will click on a "Create Site" button. The Wizard will take the information you have input, combine it with the workshops and features of the DHRIFT App, and then store a new repository in your GitHub account. When your Landing Page is complete, navigate to http://dhrift.<youruserid>.github.io and see what you've created. 
+To make the site creation process easier, the DHRIFT Wizard will walk users through the step-by-step process of creating a new DHRIFT Institute Landing Page. The wizard will ask for core information about your institute. Then you will click on a "Create Site" button. The Wizard will take the information you have input, combine it with the workshops and features of the DHRIFT App, and then store a new repository in your GitHub account. When your Landing Page is complete, navigate to http://dhrift.<youruserid>.github.io and see what you've created. 
 
 Begin using the DHRIFT Wizard at [https://app.dhrift.org/wizard](https://app.dhrift.org/wizard). 
 
