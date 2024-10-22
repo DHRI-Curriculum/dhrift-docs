@@ -18,9 +18,6 @@ nav:
  - Workshop Guidelines: 'workshop-guidelines.md'
  - Propose and Submit a Workshop: 'propose-submit.md'
 
-extra_css:
-  -custom.css
-
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
