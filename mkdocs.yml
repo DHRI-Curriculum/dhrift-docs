@@ -3,7 +3,7 @@ theme:
   name: readthedocs
   # favicon: img/favicon.ico
 nav:
- - Home: 'README.md'
+ - Home: 'home.md'
  - About: 'about.md'
  - What is DHRIFT?: 'whatis.md'
  - How does DHRIFT work?: 'howdhrift.md'
