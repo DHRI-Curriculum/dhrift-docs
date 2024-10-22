@@ -18,9 +18,8 @@ nav:
  - Workshop Guidelines: 'workshop-guidelines.md'
  - Propose and Submit a Workshop: 'propose-submit.md'
 
-html_css_files = [
-    'custom.css',
- ]
+extra_css:
+  -'_static/custom.css'
 
 markdown_extensions:
   - def_list
