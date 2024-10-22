@@ -5,7 +5,7 @@
 If you have an idea for a new workshop that you would like to propose to add to our [core curriculum](https://app.dhrift.org/workshops?instUser=dhri-curriculum&instRepo=dhrift-site-template&user=dhri-curriculum&repo=workshops), please follow the steps below:
 
 1. Contact the [DHRIFT Curriculum Team](mailto:gc.digitalfellows@gmail.com) to discuss your idea. We can help you refine your proposal and provide guidance on how to structure your workshop. In your email, please include the following information:
-   - An abstract for your workshop (will be used for the workshop description)
+   - An abstract for your workshop (100 words or less, will be used for the workshop description)
    - The intended audience for your workshop
    - The learning objectives and outcomes you hope to achieve
    - Any special requirements or resources needed to develop the workshop
@@ -24,9 +24,9 @@ If you've already developed a workshop and proposed the workshop to our team, yo
 Contact the [DHRIFT Curriculum Team](mailto:gc.digitalfellows@gmail.com) who will then give you upload access to our [submission repository](https://github.com/DHRI-Curriculum/DHRIFT-submissions).
 
 3. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the submission repository to your local machine and add your workshop materials to the repository. (You can also manually upload your workshop materials to the repository through the GitHub interface.) When adding your workshop materials, make sure to include the following files and information:
-   - Your workshop markdown file in the root directory (see our [workshop anatomy](https://dhri-curriculum.github.io/dhrift-docs/workshopanatomy/) for formatting specifications and our [workshop guidelines](https://dhri-curriculum.github.io/dhrift-docs/workshop-guidelines/) for content requirements)
-   - If your workshop contains images, you must create a new folder in the `/images` directory and add your images to that folder. Your folder should be named the same as your workshop markdown file. _Make sure to reference the images in your  markdown file using the correct file path, e.g, `![alt text](/images/your-folder/your-image.jpg)`_
-   - If your workshop is supported by additional resources (e.g., code files, datasets), you must create a new folder in the `/uploads` directory and add your materials to that folder.  Your folder should be named the same as your workshop markdown file. _Make sure to reference the resources in your markdown file using the correct file path, e.g., `/uploads/your-folder/your-resource.csv`_
+   1. Your workshop markdown file in the root directory (see our [workshop anatomy](https://dhri-curriculum.github.io/dhrift-docs/workshopanatomy/) for formatting specifications and our [workshop guidelines](https://dhri-curriculum.github.io/dhrift-docs/workshop-guidelines/) for content requirements)
+   2. If your workshop contains images, you must create a new folder in the `/images` directory and add your images to that folder. Your folder should be named the same as your workshop markdown file. _Make sure to reference the images in your  markdown file using the correct file path, e.g, `![alt text](/images/your-folder/your-image.jpg)`_
+   3. If your workshop is supported by additional resources (e.g., code files, datasets), you must create a new folder in the `/uploads` directory and add your materials to that folder.  Your folder should be named the same as your workshop markdown file. _Make sure to reference the resources in your markdown file using the correct file path, e.g., `/uploads/your-folder/your-resource.csv`_
 
 4. Create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to submit your workshop for review. In your pull request, include a brief description of your workshop's materials and any special instructions or requirements for review.
 
@@ -42,7 +42,7 @@ After 3 years, we will add a note to the workshop indicating that it might be ou
 
 If you have any questions or need assistance with proposing or submitting a workshop, please contact the [DHRIFT Curriculum Team](mailto:gc.digitalfellows@gmail.com). We're here to help!
 
-### The Peer Review Process
+### The Review Timeline
 
 All workshops submitted to the DHRIFT Curriculum Team for review will undergo a peer review process to ensure that they meet our workshop development guidelines and pedagogical standards. The peer review process includes the following steps:
 
