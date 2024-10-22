@@ -1,6 +1,6 @@
 site_name: DHRIFT Documentation
 theme:
-  name: readthedocs
+  # name: mkdocs
   # favicon: img/favicon.ico
 nav:
  - Home: 'README.md'
