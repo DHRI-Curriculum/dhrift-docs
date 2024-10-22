@@ -19,7 +19,7 @@ nav:
  - Propose and Submit a Workshop: 'propose-submit.md'
 
 extra_css:
-  -_static/custom.css
+  -custom.css
 
 markdown_extensions:
   - def_list
